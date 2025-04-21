@@ -9,6 +9,6 @@ Raspberry Pi Pico W<br>
 [icm20948 and lps22hb](https://www.waveshare.com/wiki/Pico-10DOF-IMU)<br>
 # To do list
 Send IMU data to server running on pc for futher ML traning :white_check_mark:<br>
-Recive data, need to change it to using [flet](https://flet.dev/) :x: <br>
+Recive data, need to change it to using [flet](https://flet.dev/) :white_check_mark: <br>
 Train data, old jupyter notebook sketch, need to be adujsted for new data :x:<br>
 Running interference on Pico :x:<br>
