@@ -10,6 +10,8 @@ Raspberry Pi Pico W<br>
 # To do list
 Send IMU data to server running on pc for futher ML traning :white_check_mark:<br>
 Recive data, need to change it to using [flet](https://flet.dev/) :white_check_mark: <br>
+![alt text].(https://github.com/turboquack/exercise_detector/blob/main/pictures/Screenshot_20250421_224007.png)<br>
+
 Collect data :x:
 Train data, old jupyter notebook sketch, need to be adujsted for new data :x:<br>
 Running interference on Pico :x:<br>
